@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! My Name is MKPW27! 👋
+
+## - 🔭 I’m currently working on some personal pet projects although it morely require more configuring than conding.
+## - 🌱 I’m currently learning Github i suppose.
+## - ⚡ Fun fact: I im really like playing around aws server as of now.
 
 <!--
 **MKPW27/MKPW27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
