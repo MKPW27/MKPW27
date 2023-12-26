@@ -5,7 +5,7 @@
  - 🌱 I’m currently learning Github i suppose.
  - ⚡ Fun fact: I im really like playing around aws server as of now.
 
-# Cool Git Commands:
+### Cool Git Commands:
  - This identify who made each commit in a project's history.
    a. git config --global user.name "Your Name"
    b. git config --global user.email "you@example.com"
