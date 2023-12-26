@@ -7,8 +7,8 @@
 
 ### Cool Git Commands:
  - This identify who made each commit in a project's history.
-   a. git config --global user.name "Your Name"
-   b. git config --global user.email "you@example.com"
+   - git config --global user.name "Your Name"
+   - git config --global user.email "you@example.com"
 
 <!--
 **MKPW27/MKPW27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
