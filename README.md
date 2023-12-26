@@ -9,6 +9,9 @@
  - This identify who made each commit in a project's history.
    -- git config --global user.name "Your Name"
    -- git config --global user.email "you@example.com"
+ - creates a remote repository
+   -- git remote add origin https://github.com/your-username/your-repository.git
+
 
 <!--
 **MKPW27/MKPW27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
