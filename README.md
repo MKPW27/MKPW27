@@ -9,8 +9,12 @@
 - This identify who made each commit in a project's history.
    - git config --global user.name "Your Name"
    - git config --global user.email "you@example.com"
-- creates a remote repository
-   - git remote add origin https://github.com/your-username/your-repository.git
+- Creates a remote repository
+   - git remote add origin https://github.com/your-username/your-repository.git-
+- Push change to github
+   - git push
+- Force push to github
+   - git push -f origin master 
 
 
 <!--
