@@ -1,10 +1,14 @@
-<<<<<<< HEAD
+
 ### Hi! My Name is MKPW27! 👋
 
-## - 🔭 I’m currently working on some personal pet projects although it morely require more configuring than conding.
-## - 🌱 I’m currently learning Github i suppose.
-## - ⚡ Fun fact: I im really like playing around aws server as of now.
+ - 🔭 I’m currently working on some personal pet projects although it morely require more configuring than conding.
+ - 🌱 I’m currently learning Github i suppose.
+ - ⚡ Fun fact: I im really like playing around aws server as of now.
 
+# Cool Git Commands:
+ - This identify who made each commit in a project's history.
+    - a. git config --global user.name "Your Name"
+    - b. git config --global user.email "you@example.com"
 
 <!--
 **MKPW27/MKPW27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
